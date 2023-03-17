@@ -1,0 +1,128 @@
+.navbar{
+  background-color: #78ACC1;
+}
+.main-nav{
+  box-shadow: 0px 2px 5px #777;
+}
+body{
+  background-color:#ebebe0;
+}
+.navbar-brand{
+  font-family: Lucida Handwriting;
+}
+.welcome{
+  background-color: #dedeea;
+}
+.col-md{
+  font-size: 60px;
+  color: #330033;
+  font-family: Trebuchet MS;
+}
+.eunoia{
+  color:  #cc00cc
+}
+.btn {
+  background-color: #61678b;
+  font-size: 40px;
+}
+.carousel-item {
+  height: 400px;
+}
+.icon{
+  display: flex;
+  padding: auto;
+  margin: 0;
+  border-radius: 130px;
+  background-color: #78ACC1;
+}
+.caption{
+  font-size: 20px;
+  color: #660066;
+  font-weight: bold;
+  font-family: Trebuchet MS;
+
+}
+.caption:hover{
+  font-size: 2em;
+  transition: 0.6s ease;
+
+}
+.details{
+  text-align: justify;
+  text-justify: inter-word;
+  color: #61678B;
+  font-weight: bold;
+  font-family: helvetica;
+}
+.photo{
+  border-top-left-radius: 133px;
+}
+.col{
+  background-color: #bcb9d8;
+}
+.leaders, .join{
+  font-size: 37px;
+  color: #660066;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+.join{
+  text-decoration: underline #98bfd0;
+}
+.join:hover{
+  color: #78acc1
+}
+.bhere{
+  background-color: #78acc1;
+}
+h1{
+  text-align: center;
+  color: #330033;
+  font-family: monospace;
+}
+h2{
+  text-align: center;
+  color: #42AEB5;
+  font-family: Lucida Handwriting;
+  font-size: 35px;
+}
+.turq{
+  color: #0e566a;
+}
+.vision{
+  text-align: justify;
+  font-family: Trebuchet MS;
+  font-size: 25px;
+  margin-right: 40px;
+  margin-left: 40px;
+  color: #0e566a;
+}
+.header{
+  font-size: 28px;
+  color: #42aeb5;
+  font-weight: bold;
+}
+.header2{
+  text-align: center;
+  font-size: 32px;
+  color: #660066;
+  font-weight: bold;
+  font-family: Trebuchet MS;
+}
+.eun{
+  color: #bcb9d8;
+}
+.offer{
+  text-align: center;
+  font-size: 38px;
+  font-family: Trebuchet MS;
+  color: #660066;
+  font-weight: bolder;
+}
+.offer:hover{
+  font-size: 3em;
+  transition: 0.6s ease;
+}
+.image{
+  border-radius: 8px;
+}
